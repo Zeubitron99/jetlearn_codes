@@ -1,0 +1,3 @@
+movies=[["avenegers","venom"],["polar express","the grinch who stole christmas"]]
+print(len(movies))
+print(movies[0][1])
